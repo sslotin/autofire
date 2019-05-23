@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="autofire",
-    version="0.0.2",
+    version="0.2",
     author="Sergey Slotin",
     author_email="me@sereja.me",
     description="CLI for any Python program",
