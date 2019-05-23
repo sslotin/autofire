@@ -1,0 +1,3 @@
+[console_scripts]
+fire = autofire.__main__:main
+
